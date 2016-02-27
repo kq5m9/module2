@@ -22,6 +22,11 @@ h1 {
 	text-align: center;
 }
 
+h2 {
+	font-size: 1.25em;
+	text-align: center;
+}
+
 .menuItem  {
 	background-color: #999;
 	border: 1px solid black;
@@ -30,13 +35,11 @@ h1 {
 }
 
 .menuTitle{
-	text-align: center;
 	background-color: green;
 	border: 1px solid black;
 	margin-bottom: 10px;
 	padding: 0 10px;
 	width: 150px;
-	font-size: 1.25em;
 	position: relative;
 	float: right;
     right: -1px;
